@@ -11,6 +11,7 @@ namespace TestCore
 {
     public class Startup
     {
+        //test mvc
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
